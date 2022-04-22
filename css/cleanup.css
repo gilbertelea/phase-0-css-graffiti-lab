@@ -1,1 +1,22 @@
 /* write your override styles here */
+
+div#wall .tag-1{
+    display: none;
+}
+
+div#wall > #tag-2 {
+    top: 3px;
+ background-image: 25%;
+    display: block ;
+}
+
+div#wall .parent {
+    background-position: 75%;
+    background-image: none;
+    display: block;
+}
+
+div#wall  #tag-3{
+   background-color: blue;
+}
+
